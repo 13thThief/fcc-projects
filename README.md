@@ -1,5 +1,7 @@
 # freeCodeCamp Projects
 
+Requested projects for full-stack certification
+
 ## Front-end
 
 - [Drum Machine](https://13ththief.github.io/drum-machine/)
