@@ -40,4 +40,4 @@ Bar Chart, Scatterplot Chart, Heat Map, Chloropleth Map, Tree Map
 - [Stock Price Checker](https://13-stock-price.glitch.me/)
 - [Anonymous Message Board](https://13-anon-msg-board.glitch.me/)
 
-Note: Since these were more of back-end based projects, front-end wasn't given any touch-up and remains as is provided by the fcc boiletplate. May change later, so consider this as WIP.
+Note: Since these were more of back-end based projects, front-end wasn't given any touch-up and remains as is provided by the fcc boilerplate. May change later, so consider this as WIP.
